@@ -1,6 +1,8 @@
 # SQLiteEFCodeFirstDemo
 CodeFirst模式下EF SQLite示例程序
 
+![运行时图片](RunDemo.png)
+
 参考链接：
 
 [C#/.NET VS2017+ EF+SQLite.CodeFirst——真正实现CodeFirst](https://blog.csdn.net/qq_34202873/article/details/85068877)
